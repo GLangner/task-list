@@ -60,4 +60,12 @@
       }
     }
   }
+  @media (max-width: 768px) {
+    .calendar-weather-container .weather-container .weather-info {
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 0rem;
+      border-color: transparent;
+  }
+  }
   
